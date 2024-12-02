@@ -1,0 +1,23 @@
+{
+  "name": "binay-parajuli",
+  "version": "1.0.0",
+  "description": "This is my own personal package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABinaya1999/js-package_build.git"
+  },
+  "keywords": [
+    "binay",
+    "parajuli"
+  ],
+  "author": "Binay Raj Parajuli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABinaya1999/js-package_build/issues"
+  },
+  "homepage": "https://github.com/ABinaya1999/js-package_build#readme"
+}
