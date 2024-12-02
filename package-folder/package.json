@@ -1,8 +1,9 @@
 {
-  "name": "binay-parajuli",
-  "version": "1.0.0",
+  "name": "@binayrajparajuli17/binay-parajuli",
+  "version": "1.1.1",
   "description": "This is my own personal package.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm run test"
   },
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ABinaya1999/js-package_build/issues"
   },
-  "homepage": "https://github.com/ABinaya1999/js-package_build#readme"
+  "homepage": "https://github.com/ABinaya1999/js-package_build#readme",
+  "dependencies": {
+    "binay-parajuli": "^1.0.1"
+  }
 }
